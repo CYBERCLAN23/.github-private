@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-dark-banner-link.com/banner.png" alt="CyberClan Banner" width="100%" />
+  <img src="file_00000000f69c61f8a4864517ffe47291.png" alt="CyberClan Banner" width="100%" />
 </p>
 
 <h1 align="center">🛡️ CYBERCLAN – Future-Driven Cybersecurity Collective ⚔️</h1>
