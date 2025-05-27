@@ -44,7 +44,7 @@ We’re in an intensive 24-week preparation phase toward a major **CTF event in 
 
 We welcome collaborations, feedback, and discussions. If you're into ethical hacking, security engineering, or building cool tools — **let's connect**!
 
-- 📬 `cyberclan.contact [@] proton.me`
+- 📬 `CyberClan237@gmail.com`
 - 🌐 Website / LinkedIn coming soon
 
 ---
